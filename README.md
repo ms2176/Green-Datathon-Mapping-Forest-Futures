@@ -5,8 +5,11 @@
 GreenDatathon: Mapping Forest Futures is a 2-hour data analysis challenge focusing on global forest trends. This event aims to introduce beginners to data manipulation and basic programming skills using real-world environmental data.
 
 Date: Wednesday, July 3, 2024
+
 Time: 1:00 PM - 4:00 PM (GMT+4)
+
 Location: Room 5.09, Heriot-Watt University Dubai Campus
+
 Led by: Mufliha Dawood & Supervised by: Dr. Drishty Sobnath
 
 ## Dataset
@@ -15,10 +18,10 @@ We will be working with the FAO Global Forest Insights dataset (1990-2020). This
 
 ## Repository Contents
 
-- `tutorial.md`: A step-by-step guide to basic data manipulation using Python and Pandas
+- `tutorial.py`: A step-by-step guide to basic data manipulation using Python and Pandas
 - `starter_notebook.ipynb`: Jupyter notebook with code structure and tasks for the datathon
 - `cheat_sheet.md`: Quick reference for common Python and Pandas operations
-- `dataset/Forest_Area.csv`: The dataset we'll be using for analysis
+- `Forest_Area.csv`: The dataset we'll be using for analysis
 
 ## Getting Started
 
@@ -30,9 +33,9 @@ We will be working with the FAO Global Forest Insights dataset (1990-2020). This
 
 4. 
 
-5. Refer to `tutorial.md` for a step-by-step guide on how to manipulate the data using Python and Pandas.
+5. Refer to `tutorial.py` for a step-by-step guide on how to manipulate the data using Python and Pandas.
 6. Use `cheat_sheet.md` as a quick reference for common Python and Pandas operations during your analysis.
-7. The `dataset/Forest_Area.csv` file contains the data you will be analyzing. Make sure to explore it thoroughly.
+7. The `Forest_Area.csv` file contains the data you will be analyzing. Make sure to explore it thoroughly.
 
 ## License
 
