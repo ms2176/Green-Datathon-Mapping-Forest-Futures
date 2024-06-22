@@ -1,8 +1,8 @@
 # GreenDatathon: Mapping Forest Futures [1/3 Event of the Series]
 
-## About the Event
+## Google Colab Link: <a href="https://colab.research.google.com/github/ms2176/Green-Datathon-Mapping-Forest-Futures/blob/main/GreenDatathon_Main.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-<a href="https://colab.research.google.com/github/ms2176/Green-Datathon-Mapping-Forest-Futures/blob/main/GreenDatathon_Main.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+## About the Event
 
 GreenDatathon: Mapping Forest Futures is a 2-hour data analysis challenge focusing on global forest trends. This event aims to introduce beginners to data manipulation and basic programming skills using real-world environmental data.
 
