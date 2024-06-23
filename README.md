@@ -6,13 +6,13 @@
 
 GreenDatathon: Mapping Forest Futures is a 2-hour data analysis challenge focusing on global forest trends. This event aims to introduce beginners to data manipulation and basic programming skills using real-world environmental data.
 
-Date: Wednesday, July 3, 2024
+<b> Date: </b> Wednesday, July 3, 2024
 
-Time: 1:00 PM - 4:00 PM (GMT+4)
+<b> Time: </b> 1:00 PM - 4:00 PM (GMT+4)
 
-Location: Room 5.09, Heriot-Watt University Dubai Campus
+<b> Location: </b> Room 5.09, Heriot-Watt University Dubai Campus
 
-Led by: Mufliha Dawood & Supervised by: Dr. Drishty Sobnath
+<b> Led by: </b> Mufliha Dawood & <b> Supervised by: </b> Dr. Drishty Sobnath
 
 ## Dataset
 
