@@ -1,7 +1,6 @@
 # GreenDatathon: Mapping Forest Futures [1/3 Event of the Series]
 
-## Google Colab Link
-[Open in Colab](https://bit.ly/codealongwithme)
+## Google Colab Link [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/codealongwithme)
 
 ## About the Event
 
