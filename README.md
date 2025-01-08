@@ -1,37 +1,74 @@
-# GreenDatathon: Mapping Forest Futures [1/3 Event of the Series]
+# TechSheCan Event Series  
+
+The **TechSheCan Event Series** is a sustainability-themed initiative designed to inspire and equip women with essential skills in **Data Science**, **AI**, and **UX/UI Design**. The series consisted of three interactive sessions, combining hands-on workshops and inspiring talks by professionals who transitioned into tech fields.  
+
+---
+
+## 📚 Event Overview  
+
+### 🌳 **Green Datathons** (2 Sessions)  
+Focused on analyzing global forest trends using the **FAO Global Forest Dataset (1990-2020)**, these datathons aimed to teach foundational data analysis skills.  
+
+**Key Highlights:**  
+- **Speakers:**  
+  - *Kehinde Makinde* – Data Analyst, transitioned from Information Security  
+  - *Souvenir Okey* – Business Analyst, expert in Machine Learning and business insights  
+- **Workshops:**  
+  - Beginner-friendly, code-along sessions using **Google Colab**  
+  - Guided use of Python libraries for:  
+    - Data analysis  
+    - Cleaning and manipulation  
+    - Basic prediction tools  
 
 ## Google Colab Link [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/codealongwithme)
 
-## About the Event
+---
 
-GreenDatathon: Mapping Forest Futures is a 2-hour data analysis challenge focusing on global forest trends. This event aims to introduce beginners to data manipulation and basic programming skills using real-world environmental data.
+### 🎨 **UX/UI Design Hackathon**  
+Aimed at fostering creativity and promoting green solutions, participants designed **Personal Carbon Footprint Dashboards** in teams and presented their ideas.  
 
-**Date:** Wednesday, July 3, 2024
+**Key Highlights:**  
+- **Speaker:**  
+  - *Sarah Longbottom* – Transitioned into UX/UI Design from a non-computing background  
+- **Workshop Topics:**  
+  - Introduction to UI/UX concepts  
+  - Live Figma demonstration  
+  - Tips for improving design processes  
 
-**Time:** 1:00 PM - 4:00 PM (GMT+4)
+---
 
-**Location:** Room 5.09, Heriot-Watt University Dubai Campus
+## 📂 Repository Contents  
 
-**Led by:** Mufliha Dawood  
-**Supervised by:** Dr. Drishty Sobnath
+This repository contains all materials and resources from the event series:  
 
-## Dataset
+### 📄 **Datathon Materials:**  
+- **Workshop Notebooks:**  
+  - Beginner-friendly Python notebooks for data cleaning, analysis, and prediction using FAO datasets.  
+- **Dataset Files:**  
+  - FAO Global Forest Dataset (1990-2020).  
+- **Presentation Slides:**  
+  - Slides used during the workshops.  
 
-We will be working with the FAO Global Forest Insights dataset (1990-2020). This dataset provides a detailed view of forest areas across 236 countries and territories, highlighting changes over three decades.
+### 🎨 **UX/UI Hackathon Materials:**  
+- **Figma Templates:**  
+  - Sample designs for Personal Carbon Footprint Dashboards.  
+- **Guides:**  
+  - Step-by-step instructions on using Figma for beginners.  
+- **Presentation Resources:**  
+  - Overview of UI/UX concepts and design principles.  
 
-## Repository Contents
+---
 
-- `tutorial.py`: A step-by-step guide to basic data manipulation using Python and Pandas.
-- `starter_notebook.ipynb`: Jupyter notebook with code structure and tasks for the datathon.
-- `cheat_sheet.md`: Quick reference for common Python and Pandas operations.
-- `Forest_Area.csv`: The dataset we'll be using for analysis.
+## 🛠️ Tech Stack  
 
-## Getting Started
+- **Data Science & AI:**  
+  - Python  
+  - Google Colab  
+  - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **UX/UI Design:**  
+  - Figma  
 
-1. Clone this repository.
-2. Refer to `tutorial.py` for a step-by-step guide on how to manipulate the data using Python and Pandas.
-3. Use `cheat_sheet.md` as a quick reference for common Python and Pandas operations during your analysis.
-4. The `Forest_Area.csv` file contains the data you will be analyzing. Make sure to explore it thoroughly.
+---
 
 ## License
 
